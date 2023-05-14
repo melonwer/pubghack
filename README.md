@@ -89,7 +89,7 @@ FLY PLAYER (Баганная, риск бана⚠️)
 HIGH JUMP (Баганная, риск бана⚠️)
 MAGIC BULLET (Большой риск бана❌)
 
-[Image](src)
+[IMG_0078.png](src)
 ```
 
 ### Цены
